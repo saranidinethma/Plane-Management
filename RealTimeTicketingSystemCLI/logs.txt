@@ -1,0 +1,355 @@
+===============================================
+Welcome to the Real-Time Ticketing System
+===============================================
+Saving configuration...
+Configuration saved successfully to 'config.json'.
+
+===============================================
+Initializing the Ticket Pool...
+Starting Vendor and Customer Threads...
+
+Vendor 1 added 3 tickets. Pool size: 3
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 3 tickets. Pool size: 6
+Customer 3 purchased 5 tickets. Pool size: 1
+No tickets available! Customer 1 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 1 added 3 tickets. Pool size: 4
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 3 tickets. Pool size: 7
+Customer 2 purchased 5 tickets. Pool size: 2
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 3 tickets. Pool size: 5
+Customer 3 purchased 5 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 3 tickets. Pool size: 3
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 3 tickets. Pool size: 6
+Customer 2 purchased 5 tickets. Pool size: 1
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 3 tickets. Pool size: 4
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 3 tickets. Pool size: 7
+Customer 3 purchased 5 tickets. Pool size: 2
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 3 tickets. Pool size: 5
+Customer 2 purchased 5 tickets. Pool size: 0
+No tickets available! Customer 1 is waiting to purchase tickets.
+
+Stopping all threads...
+
+===============================================
+SUMMARY
+===============================================
+ERROR: Error in Customer 1: null
+Total tickets released by all vendors: 30
+Total tickets sold to all customers: 30
+Remaining tickets in the pool: 0
+Maximum ticket pool size reached: 0 times
+Customers waited for tickets: 17 times
+Vendors waited to release tickets: 0 times
+
+System shutting down...
+===============================================
+System has shut down successfully.
+Thank you for using the Real-Time Ticketing System!
+===============================================
+Welcome to the Real-Time Ticketing System
+===============================================
+Saving configuration...
+Configuration saved successfully to 'config.json'.
+
+===============================================
+Initializing the Ticket Pool...
+Starting Vendor and Customer Threads...
+
+Vendor 1 added 4 tickets. Pool size: 4
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 4 tickets. Pool size: 8
+Customer 3 purchased 5 tickets. Pool size: 3
+No tickets available! Customer 1 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 1 added 4 tickets. Pool size: 7
+Customer 1 purchased 5 tickets. Pool size: 2
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 2 added 4 tickets. Pool size: 6
+Customer 2 purchased 5 tickets. Pool size: 1
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 4 tickets. Pool size: 5
+Customer 3 purchased 5 tickets. Pool size: 0
+Vendor 2 added 4 tickets. Pool size: 4
+No tickets available! Customer 1 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 1 added 4 tickets. Pool size: 8
+Customer 1 purchased 5 tickets. Pool size: 3
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 2 added 4 tickets. Pool size: 7
+Customer 2 purchased 5 tickets. Pool size: 2
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 4 tickets. Pool size: 6
+Vendor 1 added 4 tickets. Pool size: 10
+Customer 1 purchased 5 tickets. Pool size: 5
+Customer 3 purchased 5 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+
+Stopping all threads...
+
+===============================================
+SUMMARY
+===============================================
+ERROR: Error in Customer 2: null
+Total tickets released by all vendors: 40
+Total tickets sold to all customers: 40
+Remaining tickets in the pool: 0
+Maximum ticket pool size reached: 0 times
+Customers waited for tickets: 14 times
+Vendors waited to release tickets: 0 times
+
+System shutting down...
+===============================================
+System has shut down successfully.
+Thank you for using the Real-Time Ticketing System!
+===============================================
+Welcome to the Real-Time Ticketing System
+===============================================
+Saving configuration...
+Configuration saved successfully to 'config.json'.
+
+===============================================
+Initializing the Ticket Pool...
+Starting Vendor and Customer Threads...
+
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Vendor 2 added 5 tickets. Pool size: 7
+Customer 3 purchased 1 tickets. Pool size: 6
+Customer 1 purchased 1 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Customer 2 purchased 1 tickets. Pool size: 1
+Customer 3 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Vendor 2 added 5 tickets. Pool size: 8
+Customer 3 purchased 1 tickets. Pool size: 7
+Customer 2 purchased 1 tickets. Pool size: 6
+Customer 1 purchased 1 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Customer 3 purchased 1 tickets. Pool size: 1
+Customer 2 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 1 is waiting to purchase tickets.
+No tickets available! Customer 3 is waiting to purchase tickets.
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 1 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Vendor 2 added 5 tickets. Pool size: 8
+Customer 2 purchased 1 tickets. Pool size: 7
+Customer 1 purchased 1 tickets. Pool size: 6
+Customer 3 purchased 1 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Customer 3 purchased 1 tickets. Pool size: 2
+Customer 2 purchased 1 tickets. Pool size: 1
+Customer 1 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 3 is waiting to purchase tickets.
+No tickets available! Customer 2 is waiting to purchase tickets.
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Vendor 2 added 5 tickets. Pool size: 7
+Customer 3 purchased 1 tickets. Pool size: 6
+Customer 2 purchased 1 tickets. Pool size: 5
+Customer 1 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 3 purchased 1 tickets. Pool size: 2
+Customer 1 purchased 1 tickets. Pool size: 1
+Customer 3 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Vendor 2 added 5 tickets. Pool size: 8
+Customer 3 purchased 1 tickets. Pool size: 7
+Customer 1 purchased 1 tickets. Pool size: 6
+Customer 2 purchased 1 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Customer 3 purchased 1 tickets. Pool size: 1
+Customer 1 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 3 is waiting to purchase tickets.
+
+Stopping all threads...
+
+===============================================
+SUMMARY
+===============================================
+Total tickets released by all vendors: 50
+ERROR: Customer 2 was interrupted while waiting for tickets: null
+ERROR: Error in Customer 1: sleep interrupted. Thread interrupted.
+ERROR: Error in Customer 2: sleep interrupted. Thread interrupted.
+Total tickets sold to all customers: 50
+ERROR: Customer 3 was interrupted while waiting for tickets: null
+Remaining tickets in the pool: 0
+ERROR: Error in Customer 3: sleep interrupted. Thread interrupted.
+Maximum ticket pool size reached: 0 times
+Customers waited for tickets: 10 times
+Vendors waited to release tickets: 0 times
+
+System shutting down...
+===============================================
+System has shut down successfully.
+Thank you for using the Real-Time Ticketing System!
+===============================================
+Welcome to the Real-Time Ticketing System
+===============================================
+Saving configuration...
+Configuration saved successfully to 'config.json'.
+
+===============================================
+Initializing the Ticket Pool...
+Starting Vendor and Customer Threads...
+
+Vendor 1 added 5 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Vendor 2 added 5 tickets. Pool size: 7
+Customer 1 purchased 1 tickets. Pool size: 6
+Customer 2 purchased 1 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Customer 3 purchased 1 tickets. Pool size: 1
+Customer 1 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 3 is waiting to purchase tickets.
+Vendor 2 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Vendor 1 added 5 tickets. Pool size: 8
+Customer 1 purchased 1 tickets. Pool size: 7
+Customer 2 purchased 1 tickets. Pool size: 6
+Customer 3 purchased 1 tickets. Pool size: 5
+Customer 1 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Customer 2 purchased 1 tickets. Pool size: 2
+Customer 1 purchased 1 tickets. Pool size: 1
+Customer 3 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Vendor 1 added 5 tickets. Pool size: 8
+Customer 3 purchased 1 tickets. Pool size: 7
+Customer 1 purchased 1 tickets. Pool size: 6
+Customer 2 purchased 1 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 2 purchased 1 tickets. Pool size: 3
+Customer 1 purchased 1 tickets. Pool size: 2
+Customer 3 purchased 1 tickets. Pool size: 1
+Customer 1 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 3 is waiting to purchase tickets.
+Vendor 2 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Vendor 1 added 5 tickets. Pool size: 8
+Customer 1 purchased 1 tickets. Pool size: 7
+Customer 2 purchased 1 tickets. Pool size: 6
+Customer 3 purchased 1 tickets. Pool size: 5
+Customer 1 purchased 1 tickets. Pool size: 4
+Customer 3 purchased 1 tickets. Pool size: 3
+Customer 2 purchased 1 tickets. Pool size: 2
+Customer 1 purchased 1 tickets. Pool size: 1
+Customer 3 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 1 is waiting to purchase tickets.
+Vendor 2 added 5 tickets. Pool size: 5
+Customer 2 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Vendor 1 added 5 tickets. Pool size: 8
+Customer 3 purchased 1 tickets. Pool size: 7
+Customer 1 purchased 1 tickets. Pool size: 6
+Customer 2 purchased 1 tickets. Pool size: 5
+Customer 3 purchased 1 tickets. Pool size: 4
+Customer 1 purchased 1 tickets. Pool size: 3
+Customer 2 purchased 1 tickets. Pool size: 2
+Customer 3 purchased 1 tickets. Pool size: 1
+Customer 1 purchased 1 tickets. Pool size: 0
+No tickets available! Customer 2 is waiting to purchase tickets.
+No tickets available! Customer 3 is waiting to purchase tickets.
+
+Stopping all threads...
+
+===============================================
+ERROR: Customer 1 was interrupted during sleep or ticket retrieval.
+SUMMARY
+ERROR: Customer 3 was interrupted while waiting for tickets: null
+===============================================
+ERROR: Customer 3 was interrupted during sleep or ticket retrieval.
+ERROR: Customer 2 was interrupted while waiting for tickets: null
+Total tickets released by all vendors: 50
+ERROR: Customer 2 was interrupted during sleep or ticket retrieval.
+Total tickets sold to all customers: 50
+Remaining tickets in the pool: 0
+Maximum ticket pool size reached: 0 times
+Customers waited for tickets: 10 times
+Vendors waited to release tickets: 0 times
+
+System shutting down...
+===============================================
+System has shut down successfully.
+Thank you for using the Real-Time Ticketing System!
+2024-12-07 21:41:08 - [INFO] ===============================================
+2024-12-07 21:41:08 - [INFO]       Welcome to the Real-Time Ticketing System
+2024-12-07 21:41:08 - [INFO] ===============================================
+2024-12-07 21:41:08 - [INFO] Please enter the system configuration parameters:
+2024-12-07 21:41:35 - [INFO] Starting Vendor and Customer Threads...
+2024-12-07 21:41:35 - [INFO] Stopping all threads...
+2024-12-07 21:41:35 - [INFO] Vendor 1 added 0 tickets. (Pool size: 0)
+2024-12-07 21:41:35 - [ERROR] No tickets available! Customer 3 is waiting to purchase tickets. (Pool size: 0)
+2024-12-07 21:41:35 - [ERROR] Thread interrupted while Customer 3 was waiting to purchase tickets.
+2024-12-07 21:41:35 - [ERROR] No tickets available! Customer 2 is waiting to purchase tickets. (Pool size: 0)
+2024-12-07 21:41:35 - [ERROR] Thread interrupted while Customer 2 was waiting to purchase tickets.
+2024-12-07 21:41:35 - [ERROR] No tickets available! Customer 1 is waiting to purchase tickets. (Pool size: 0)
+2024-12-07 21:41:35 - [ERROR] Thread interrupted while Customer 1 was waiting to purchase tickets.
+2024-12-07 21:41:35 - [INFO] Vendor 2 added 0 tickets. (Pool size: 0)
+2024-12-07 21:41:35 - [INFO] All threads stopped successfully.
+2024-12-07 21:41:35 - [INFO] 
+===============================================
+2024-12-07 21:41:35 - [INFO] SUMMARY
+2024-12-07 21:41:35 - [INFO] ===============================================
+2024-12-07 21:41:35 - [INFO] Total tickets released by all vendors: 0
+2024-12-07 21:41:35 - [INFO] Total tickets sold to all customers: 0
+2024-12-07 21:41:35 - [INFO] Remaining tickets in the pool: 0
+2024-12-07 21:41:35 - [INFO] Maximum ticket pool size reached: 0 times
+2024-12-07 21:41:35 - [INFO] Customers waited for tickets: 3 times
+2024-12-07 21:41:35 - [INFO] Vendors waited to release tickets: 0 times
+2024-12-07 21:41:35 - [INFO] 
+System shutting down...
+2024-12-07 21:41:35 - [INFO] ===============================================
+2024-12-07 21:41:35 - [INFO] System has shut down successfully.
+2024-12-07 21:41:35 - [INFO] Thank you for using the Real-Time Ticketing System!
